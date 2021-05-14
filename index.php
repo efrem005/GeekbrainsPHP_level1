@@ -9,6 +9,6 @@
 </head>
 <body>
 
-<h1>Lesson1</h1>
+<p>Домашняя работа урока №1: <a href="./lesson1/">lesson №1</a></p>
 </body>
 </html>
