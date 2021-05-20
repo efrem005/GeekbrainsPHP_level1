@@ -10,5 +10,6 @@
 <body>
 
 <p>Домашняя работа урока №1: <a href="./lesson1/">lesson №1</a></p>
+<p>Домашняя работа урока №2: <a href="./lesson2/">lesson №2</a></p>
 </body>
 </html>
